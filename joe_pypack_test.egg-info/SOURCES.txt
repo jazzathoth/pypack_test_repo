@@ -1,0 +1,7 @@
+README.md
+setup.py
+joe_pypack_test.egg-info/PKG-INFO
+joe_pypack_test.egg-info/SOURCES.txt
+joe_pypack_test.egg-info/dependency_links.txt
+joe_pypack_test.egg-info/requires.txt
+joe_pypack_test.egg-info/top_level.txt
