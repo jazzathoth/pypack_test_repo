@@ -1,5 +1,6 @@
+import pandas as pd
+
 class EasyLabel:
-  import pandas as pd
   
   """A configurable label encoder
   After running fit, labels will be set to frequency of

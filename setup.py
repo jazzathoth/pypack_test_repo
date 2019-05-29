@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
         name="lamdata_jazza",
-        version="0.0.4",
+        version="0.0.5",
         author="joe",
         description="python packaging test package",
         long_description=LONG_DESCRIPTION,
